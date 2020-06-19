@@ -1,2 +1,2 @@
 kubernetes.ip: 192.168.0.1
-
+gateway.hostname: ${kubernetes.ip}:31087
