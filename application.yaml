@@ -1,1 +1,1 @@
-gateway.hostname: http://172.17.135.21:310888
+gateway.hostname: http://localhost:8088
